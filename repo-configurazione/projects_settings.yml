@@ -17,7 +17,7 @@ projects:
       - project-document-doc
       - another-project-document-doc
     short_name: PDP
-    website: https://progetto.ministerodocumentazione.gov.it
+    website: https://gabrielmatteojones.github.io/docs-italia-starter-kit/
     tags:
       - digital
       - citizenship
