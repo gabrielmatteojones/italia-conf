@@ -17,7 +17,7 @@ projects:
       - project-document-doc
       - another-project-document-doc
     short_name: PDP
-    website: https://gabrielmatteojones.github.io/docs-italia-starter-kit/
+    website: https://gabrielmatteojones.github.io/italia-conf/
     tags:
       - digital
       - citizenship
